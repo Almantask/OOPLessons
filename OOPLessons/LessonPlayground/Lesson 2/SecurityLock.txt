@@ -1,0 +1,10 @@
+﻿You have a shop and within a shop there are doors to the entrance.
+Door can be automatically open, they can be armored, 
+they can be with alarm, or plain.
+
+if doors are with alarm, they can be enabled or disabled.
+If alarm is enabled, then when doors open, it will start a timer.
+If timer times out, it will trigger the alarm.
+Timer stop as soon as the doors closes
+
+Triggered alarm notifies SecurityCenter. They will rush to the shop.
